@@ -127,3 +127,4 @@ extern unsigned int tabspaces;
 extern unsigned int defaultfg;
 extern unsigned int defaultbg;
 extern float alpha, alphaUnfocused;
+extern unsigned int defaultcs;
